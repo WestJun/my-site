@@ -78,9 +78,13 @@ body {
   text-align: center;
 }
 
-.user-image {
-  margin: 0 0 32px;
+.round{
+  margin: auto;
+  border-radius: 50%;
+  border: 3px solid #170721;
+  box-shadow: 0 0 7px #666;
   text-align: center;
+  display: block;
 }
 
 .intro h3,
