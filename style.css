@@ -82,7 +82,8 @@ body {
   margin: 0 0 32px;
   text-align: center;
   border-radius: 50%;
-  box-shadow: 0 0 50px #444;
+  border: 3px solid #170721;
+  box-shadow: 0 0 7px #666;
 }
 
 .intro h3,
