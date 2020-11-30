@@ -62,9 +62,8 @@ body {
   margin: 0 0 24px;
   font-size: 80px;
   line-height: 96px;
-  font-family: NerkoOne-Regular.ttf;
-  color: #ff6633;
-  text-shadow: 1px 1px 2px black, 0 0 1em red;
+  color: #ffffff;
+  text-shadow: 1px 15px 10px #582164, 0 0 1em red;
 }
 
 .hero-image p {
