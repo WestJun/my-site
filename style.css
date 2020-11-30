@@ -34,16 +34,19 @@ body {
   text-decoration: none;
   background-repeat: no-repeat;
   background-position: left;
+  text-shadow: 1px 5px 2px black, 0 0 1em red;
 }
 
 .header-email {
   padding-left: 30px;
   background-image: url("img/icon-email.svg");
+  text-shadow: 1px 5px 2px black, 0 0 1em red;
 }
 
 .header-phone {
   padding-left: 25px;
   background-image: url("img/icon-phone.svg");
+  text-shadow: 1px 5px 2px black, 0 0 1em red;
 }
 
 .hero-image {
