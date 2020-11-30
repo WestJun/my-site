@@ -180,6 +180,8 @@ body {
 .page-footer {
   padding: 40px 0;
   background-color: #260c26;
+  border-top-style: solid;
+  border-color: #8B008B;
 }
 
 .page-footer a {
