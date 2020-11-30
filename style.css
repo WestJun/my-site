@@ -64,7 +64,7 @@ body {
   line-height: 96px;
   color: #ffffff;
   text-shadow: 1px 15px 10px #582164, 0 0 1em red;
-  font-family: NerkoOne-Regular.ttf;
+  font-family: "NerkoOne-Regular";
 }
 
 .hero-image p {
